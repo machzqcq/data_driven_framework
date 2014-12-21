@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty --format html --out results.html
+beta: --no-source --color --format pretty --format html --out results.html DATA_YML_FILE=beta_data.yml

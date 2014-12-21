@@ -1,0 +1,10 @@
+DataSet1:
+  heading: Customer service
+  email: abc@xyz.com
+  order_reference: abc123
+  message: Dataset1
+DataSet2:
+  heading: Customer service
+  email: abc@xyz.com
+  order_reference: abc123
+  message: Dataset2
